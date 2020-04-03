@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Raheem Chaudhry
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Goldman School of Public Policy
+- name: University of California, Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include exploring racial disparities in income and wealth.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Poverty and Inequality
+- Race and Ethnicity
+- Labor and Employment
+- Public Finance
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Public Policy
+    institution: The University of California, Berkeley
+    year: 2024
+  - course: Masters in Public Affairs
+    institution: The University of Texas, Austin
+    year: 2016
+  - course: BA in English Language and Literature
+    institution: The University of Maryland, College Park
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +46,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:rchaudhry@berkeley.edu
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/raheem03
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/RaheemAChaudhry
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/raheem-chaudhry-4b7216149/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Raheem Chaudhry and I am currently a first-year PhD candidate in Public Policy at the [Goldman School of Public Policy](https://gspp.berkeley.edu/directories/phd-students/raheem-chaudhry) at UC Berkeley. I am interested in the social and economic outcomes of low-income children (and, particularly, low-income children of color) and the factors that contribute to or inhibit their success.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to coming to UC Berkeley, I conducted research on a range of issues affecting low-income families and federal safety net programs in particular at the [Center on Budget and Policy Priorities](https://www.cbpp.org/raheem-chaudhry).

@@ -1,0 +1,22 @@
+# Theme metadata
+name = "raheem"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#EF525B"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#000"
+menu_text_active = "#EF525B"
+menu_title = "#EF525B"
+#link_hover = "#EF525B"
+
+# Backgrounds
+background = "#fff"
+home_section_odd = "#fff"
+home_section_even = "#fff"
+
+font = "rose"
