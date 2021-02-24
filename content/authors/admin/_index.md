@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -73,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-My name is Raheem Chaudhry and I am currently a first-year PhD candidate in Public Policy at the [Goldman School of Public Policy](https://gspp.berkeley.edu/directories/phd-students/raheem-chaudhry) at UC Berkeley. I am interested in the social and economic outcomes of low-income children (and, particularly, low-income children of color) and the factors that contribute to or inhibit their success.
+My name is Raheem Chaudhry and I am currently a secpmd-year PhD student in Public Policy at the [Goldman School of Public Policy](https://gspp.berkeley.edu/directories/phd-students/raheem-chaudhry) at UC Berkeley. In general, I am interested in exploring the economic outcomes of low-income children -- in particular, low-income children of color -- and the factors that contribute to or inhibit their success. More specifically, I am focused on how local policy creates segregation, how segregation affects the well-being of children, families, and communities, and how policy can ameliorate segregation or attenuate its effects.
 
-Prior to coming to UC Berkeley, I conducted research on a range of issues affecting low-income families and federal safety net programs in particular at the [Center on Budget and Policy Priorities](https://www.cbpp.org/raheem-chaudhry).
+I am passionate about racial justice and ensuring equal access to opportunity for all children. I aspire for my research to help uncover policy interventions that make progress on these fronts.
+
+Prior to coming to UC Berkeley, I conducted research on a range of issues affecting low-income families at the [Center on Budget and Policy Priorities](https://www.cbpp.org/raheem-chaudhry).
