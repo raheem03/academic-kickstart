@@ -23,9 +23,9 @@ bio: My interests include exploring racial disparities in income and wealth.
 
 interests:
 - Poverty and Inequality
-- Race and Ethnicity
-- Labor and Employment
+- Racial Justice
 - Public Finance
+- Labor and Employment
 
 education:
   courses:
