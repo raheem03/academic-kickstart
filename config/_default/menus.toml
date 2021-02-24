@@ -15,7 +15,12 @@
 
 [[main]]
   name = "Research"
-  url = "/research"
+  url = "research/"
   weight = 30
+
+#[[main]]
+#  name = "Projects"
+#  url = "landing/" # for some reason if i rename it "projects" it doesn't work
+#  weight = 40
 
 

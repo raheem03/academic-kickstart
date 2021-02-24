@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-# Selected Policy Writing
+## Selected Policy Writing
 
 Aron-Dine, Aviva, **Raheem Chaudhry**, and Matt Broaddus. (April 11, 2018). *Many Working People Could Lose Health Coverage Due to Medicaid Work Requirements.* Center on Budget and Policy Priorities. [https://www.cbpp.org/research/health/many-working-people-could-lose-health-coverage-due-to-medicaid-work-requirements](https://www.cbpp.org/research/health/many-working-people-could-lose-health-coverage-due-to-medicaid-work-requirements).
 
