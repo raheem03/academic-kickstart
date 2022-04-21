@@ -22,10 +22,11 @@ organizations:
 bio: My interests include exploring racial disparities in income and wealth.
 
 interests:
-- Poverty and Inequality
+- Poverty
+- Inequality
 - Racial Justice
-- Public Finance
-- Labor and Employment
+- Housing
+- Local Public Finance
 
 education:
   courses:
@@ -73,8 +74,8 @@ user_groups:
 - Visitors
 ---
 
-My name is Raheem Chaudhry and I am currently a secpmd-year PhD student in Public Policy at the [Goldman School of Public Policy](https://gspp.berkeley.edu/directories/phd-students/raheem-chaudhry) at UC Berkeley. In general, I am interested in exploring the economic outcomes of low-income children -- in particular, low-income children of color -- and the factors that contribute to or inhibit their success. More specifically, I am focused on how local policy creates segregation, how segregation affects the well-being of children, families, and communities, and how policy can ameliorate segregation or attenuate its effects.
+I am currently a third-year PhD student in Public Policy at the [Goldman School of Public Policy](https://gspp.berkeley.edu/directories/phd-students/raheem-chaudhry) at UC Berkeley. I am interested in how we can increase access to opportunity for children from disadvantaged or historically marginalized backgrounds.
 
-I am passionate about racial justice and ensuring equal access to opportunity for all children. I aspire for my research to help uncover policy interventions that make progress on these fronts.
+My current work, broadly, explores how public policy and political institutions can work to perpetuate or attenuate economic and racial inequality. This works sits at the intersection of local public finance, political economy, and housing policy.
 
 Prior to coming to UC Berkeley, I conducted research on a range of issues affecting low-income families at the [Center on Budget and Policy Priorities](https://www.cbpp.org/raheem-chaudhry).

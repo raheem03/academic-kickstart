@@ -5,13 +5,16 @@ name = "raheem"
 light = true
 
 # Primary
-primary = "#EF525B"
+# primary = "#EF525B"
+primary = "#c1812d"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#000"
-menu_text_active = "#EF525B"
-menu_title = "#EF525B"
+menu_text = "#003262"
+# menu_text_active = "#EF525B"
+# menu_title = "#EF525B"
+menu_title = "#003262"
+menu_text_active = "#c1812d"
 #link_hover = "#EF525B"
 
 # Backgrounds
@@ -19,4 +22,4 @@ background = "#fff"
 home_section_odd = "#fff"
 home_section_even = "#fff"
 
-font = "rose"
+font = "minimal"
